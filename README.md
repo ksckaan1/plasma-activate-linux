@@ -1,6 +1,4 @@
-# Plasma Activate Linux Widget
-
-![ss1](img/logo.png)
+# Plasma Activate Linux Widget (Meme)
 
 KDE Plasma 6 widget to show Activate Linux Text (meme).
 
