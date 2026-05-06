@@ -1,0 +1,23 @@
+{
+	"KPackageStructure": "Plasma/Applet",
+	"X-Plasma-API": "declarativeappletscript",
+	"X-Plasma-API-Minimum-Version": "6.0",
+	"X-Plasma-MainScript": "ui/main.qml",
+	"KPlugin": {
+		"Name": "Activate Linux",
+		"Description": "Activate Linux (Meme)",
+		"Id": "com.kaanksc.plasma-activate-linux",
+		"Version": "1.0",
+		"Website": "https://github.com/ksckaan1/plasma-activate-linux",
+		"Category": "Utilities",
+		"License": "GPL-3.0+",
+		"Authors": [
+			{
+				"Name": "Kaan Kuscu",
+				"Email": "me@kaanksc.com"
+			}
+		],
+		"Icon": "globe",
+		"EnabledByDefault": true
+	}
+}
